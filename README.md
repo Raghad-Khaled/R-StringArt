@@ -1,2 +1,2 @@
 # R-StringArt
-It is the front-end of my String Art Shop.
+It is the front-end wibsite for my String Art Shop.
